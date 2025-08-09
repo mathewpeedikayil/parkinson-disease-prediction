@@ -1,4 +1,4 @@
-# Parkinson Disease Prediction 🧠
+# Parkinson's Disease Prediction 🧠
 This project utilises xgboost classifier to classify if a person has parkinson's disease or not.
 
 ## Program Execution
