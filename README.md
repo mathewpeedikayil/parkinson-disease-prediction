@@ -1,5 +1,5 @@
 # Parkinson's Disease Prediction 🧠
-This project utilises xgboost classifier to classify if a person has parkinson's disease or not.
+This project utilises xgboost classifier to classify if a person has parkinson's disease or not. Additionally, experimented with a decision tree and random forest.
 
 ## Program Execution
 ### Run it locally
